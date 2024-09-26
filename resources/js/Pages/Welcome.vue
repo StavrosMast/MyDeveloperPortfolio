@@ -14,7 +14,7 @@ defineProps({
     <div class="min-h-screen bg-gray-900 text-white">
         <header class="fixed top-0 left-0 right-0 z-50 p-6">
             <nav class="flex justify-between items-center">
-                <div class="text-2xl font-bold">JD</div>
+                <div class="text-2xl font-bold">SM</div>
                 <div class="space-x-6">
                     <a href="#about" class="hover:text-purple-400 transition">About</a>
                     <a href="#projects" class="hover:text-purple-400 transition">Projects</a>
