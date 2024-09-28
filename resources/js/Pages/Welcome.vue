@@ -11,7 +11,7 @@ defineProps({
 
 <template>
     <Head title="Developer Portfolio" />
-    <div class="min-h-screen bg-gray-900 text-white">
+    <div class="min-h-screen bg-black text-white">
         <header class="fixed top-0 left-0 right-0 z-50 p-6">
             <nav class="flex justify-between items-center">
                 <div class="text-2xl font-bold">SM</div>
